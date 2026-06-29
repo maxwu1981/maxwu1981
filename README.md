@@ -4,8 +4,8 @@
 
 <p align="center">
   <b>Engineering / Operations Project Manager — who ships with AI</b><br/>
-  15+ years leading NPI and cross-border operations for Apple &amp; Microsoft hardware.
-  I now build AI automation that multiplies how much a PM / ops team can deliver.
+  16 years delivering NPI and cross-border operations programs for Apple &amp; Microsoft hardware
+  — as a manufacturing / OEM program manager. I now build AI automation that multiplies how much a PM / ops team can deliver.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 💼 What I bring
 
-**Project & operations leadership — 15+ yrs in technology manufacturing**
+**Project & operations leadership — 16 yrs in technology manufacturing (OEM/ODM side)**
 
 - Led **Apple** programs with **$320M+ combined annual revenue** — iPad SMP, Pencil, Clear Case, Beats, metal-plate lines
 - Ran **Microsoft** Surface (gen 1–3), Surface Keyboard, AR/VR, and Xbox programs — **~15% operational cost reduction**
@@ -61,4 +61,4 @@
 - ▶️ YouTube: **[@aiwisdomcc](https://www.youtube.com/@aiwisdomcc)**
 - 🌐 Portfolio / hub: **[maxwu1981.github.io/Remotion](https://maxwu1981.github.io/Remotion/)**
 
-<sub>🇹🇼 Taiwan · Apple &amp; Microsoft NPI veteran · building with AI · 中英雙語</sub>
+<sub>🇹🇼 Taiwan · delivered Apple &amp; Microsoft hardware programs (OEM/PM side) · building with AI · 中英雙語</sub>
