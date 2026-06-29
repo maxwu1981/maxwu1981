@@ -1,11 +1,11 @@
 <!-- maxwu1981/maxwu1981 — GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Max Wu 👋</h1>
+<h1 align="center">Hi, I'm Max Wu (吳漢陞) 👋</h1>
 
 <p align="center">
-  <b>AI Application & Automation Engineer</b><br/>
-  I build end-to-end AI automation — agentic workflows, LLM tool integration,
-  and programmatic content pipelines that ship real products, not demos.
+  <b>Engineering / Operations Project Manager — who ships with AI</b><br/>
+  15+ years leading NPI and cross-border operations for Apple &amp; Microsoft hardware.
+  I now build AI automation that multiplies how much a PM / ops team can deliver.
 </p>
 
 <p align="center">
@@ -16,43 +16,44 @@
 
 ---
 
-### 🤖 What I do
+### 💼 What I bring
 
-I turn LLMs into shipping systems. My day-to-day is **agentic automation with Claude / Claude Code**,
-wiring models to real tools via **MCP** and the **Anthropic API**, and building pipelines that run
-unattended — from idea to published artifact.
+**Project & operations leadership — 15+ yrs in technology manufacturing**
 
-- 🧠 **LLM engineering** — Claude API, MCP (Model Context Protocol) tool servers, multi-agent orchestration, prompt + context design
-- ⚙️ **Automation pipelines** — scheduled, zero-touch workflows (research → generate → render → publish → notify)
-- 🎬 **Programmatic media** — React-driven video generation at scale with Remotion (TypeScript)
-- 🌐 **Web + GEO** — GitHub Pages sites engineered to be cited by AI answer engines (`llms.txt`, structured data, YouTube Data API)
+- Led **Apple** programs with **$320M+ combined annual revenue** — iPad SMP, Pencil, Clear Case, Beats, metal-plate lines
+- Ran **Microsoft** Surface (gen 1–3), Surface Keyboard, AR/VR, and Xbox programs — **~15% operational cost reduction**
+- Drove the **transfer of 6 programs from China to Vietnam**; cross-functional leadership across schedule, cost, risk, and customer comms
 
-### 🛠️ Tech stack
+**…and I actually build the AI tooling, not just manage it**
+
+- 🧠 **LLM automation** — Claude / Claude Code, MCP (Model Context Protocol) tool servers, agentic multi-step workflows
+- 🎬 **Programmatic media** — video pipelines written in code (Remotion + TypeScript): idea → render → publish, unattended
+- 🌐 **Web + GEO** — GitHub Pages sites engineered to be cited by AI answer engines (`llms.txt`, YouTube Data API, structured signals)
+
+### 🛠️ Tech & tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Remotion](https://img.shields.io/badge/Remotion-000000?style=flat-square&logo=remotion&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Agile / PMP](https://img.shields.io/badge/Agile%20%2F%20PMP-0052CC?style=flat-square)
+![NPI](https://img.shields.io/badge/NPI-555555?style=flat-square)
 
-### 🚀 Featured work
+### 🚀 Things I built
 
 **[Remotion Video Studio](https://github.com/maxwu1981/Remotion)** &nbsp;·&nbsp; TypeScript · React · Remotion
 > Modular, multi-video studio that generates animated explainer videos **from code** — reusable
-> design-system components, spring-based motion, TTS voiceover, and a one-command render pipeline.
-> One repo, many videos, zero re-scaffolding.
+> design-system components, spring-based motion, TTS voiceover, one-command render. One repo, many videos.
 
 **Ai-Wisdom — Claude in Practice** &nbsp;·&nbsp; [Channel](https://www.youtube.com/@aiwisdomcc) · [Live hub](https://maxwu1981.github.io/Remotion/)
-> A field-notes channel + GitHub Pages hub on real Claude / Claude Code / MCP problems and how I solved
-> them. The site pulls uploads live via the **YouTube Data API** and is **GEO-optimized** (`llms.txt`,
-> sitemap, structured signals) to be cited by ChatGPT / Perplexity / Google AI Overviews.
+> A field-notes channel + GitHub Pages hub on real Claude / Claude Code / MCP problems and how I solved them.
+> The site pulls uploads live via the **YouTube Data API** and is **GEO-optimized** to be cited by ChatGPT / Perplexity / Google AI Overviews.
 
 **Daily AI Video Factory** &nbsp;·&nbsp; Node · Claude · cron
-> An unattended pipeline: pick a topic → dual-agent review → data-driven template render → upload →
-> notify. A working example of agents doing real production work on a schedule.
+> Unattended pipeline — pick a topic → dual-agent review → data-driven template render → upload → notify.
 
 ### 📫 Reach me
 
@@ -60,4 +61,4 @@ unattended — from idea to published artifact.
 - ▶️ YouTube: **[@aiwisdomcc](https://www.youtube.com/@aiwisdomcc)**
 - 🌐 Portfolio / hub: **[maxwu1981.github.io/Remotion](https://maxwu1981.github.io/Remotion/)**
 
-<sub>🇹🇼 Based in Taiwan · AI engineering & LLM applications · 中英雙語</sub>
+<sub>🇹🇼 Taiwan · Apple &amp; Microsoft NPI veteran · building with AI · 中英雙語</sub>
